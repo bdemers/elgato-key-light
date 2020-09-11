@@ -1,6 +1,8 @@
 Stub Elgato Key Light Air Service
 =================================
 
+![status](https://img.shields.io/badge/Project%20Status-Just%20For%20Fun-orange)
+
 This project pretends to be an Elgato Key Light, by mimicking the API and provides the same discoverable mDNS metadata.
 Allowing you to add fake devices to the Elgato Control Center. When attributes of the stub light change, you can run custom code.
 
