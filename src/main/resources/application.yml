@@ -1,0 +1,8 @@
+# use the same port the Key Lights use
+server:
+  port: 9123
+
+# jmdns is noisy
+logging:
+  level:
+    javax.jmdns.impl: ERROR
